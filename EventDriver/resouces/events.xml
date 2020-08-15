@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<event-definition xmlns="http://www.w3schools.com"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.w3schools.com
+                 file:///D:\\Crosswiz\\EventDriver\\resouces\\event-schema.xsd">
+	<event>EVENTY_1</event>
+	<event>EVENT_2</event>
+</event-definition>
